@@ -83,6 +83,7 @@ h2.name::after{
 }
 .share-icon svg{
     transform: scale(1.15);
+    pointer-events: none;
 }
 .active{
     background-color: hsl(214, 17%, 51%);
